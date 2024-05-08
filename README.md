@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joao victor souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao victor souza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joao-victor-souza-7573a1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-victor-souza-7573a1121" height="30" width="40" /></a>
 <a href="https://instagram.com/joaovictorsouzamiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaovictorsouzamiranda" height="30" width="40" /></a>
 </p>
 
