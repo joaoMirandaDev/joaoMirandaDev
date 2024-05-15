@@ -32,11 +32,11 @@ ampla gama de tecnologias, incluindo Java Spring/Play, JavaScript, TypeScript, R
 AngularJS, MySQL, PostgreSQL e Docker.</span>
 </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoMirandaDev&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoMirandaDev&show_icons=true&count_private=false&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="João Miranda status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMirandaDev&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
 </div>
 
-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoMirandaDev&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoMirandaDev&theme=github-dark&custom_title=Commits&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
