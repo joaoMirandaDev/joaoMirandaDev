@@ -11,7 +11,7 @@
 
 - 📄 Conheça minhas experiências [linkedin.com/in/joao-victor-souza-7573a1121](linkedin.com/in/joao-victor-souza-7573a1121)
 
-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorBravim&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoMirandaDev&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
