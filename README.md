@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou João Victor</h1>
+<h1 align="center">João Victor de Souza</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
 - 🔭 Atualmente estou trabalhando no projeto de uma lanchonete [X-lanches](https://github.com/joaoMirandaDev/NewLabches)
