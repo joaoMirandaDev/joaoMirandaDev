@@ -11,7 +11,7 @@
 
 - 📄 Conheça minhas experiências [linkedin.com/in/joao-victor-souza-7573a1121](linkedin.com/in/joao-victor-souza-7573a1121)
 
-- 📄 Acesse meu currículo ((https://drive.google.com/file/d/1TIbp5WXXAUb_jlOMVAr4QS5DXS5ilpJG/view?usp=drive_link))
+- 📄 Acesse meu currículo (https://drive.google.com/file/d/1TIbp5WXXAUb_jlOMVAr4QS5DXS5ilpJG/view?usp=drive_link)
 
 <h3 align="center">Qualificações</h3>
 <div>
