@@ -38,8 +38,6 @@ Docker,Relatórios, Banco de dados, Autenticação de usuários.</span>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMirandaDev&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
 </div>
 
-- (https://github-readme-activity-graph.vercel.app?username=joaoMirandaDev&theme=github-dark&custom_title=Commits&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joao-victor-souza-7573a1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-victor-souza-7573a1121" height="30" width="40" /></a>
