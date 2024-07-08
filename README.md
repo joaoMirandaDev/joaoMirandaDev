@@ -15,9 +15,10 @@
 
 <h3 align="center">Qualificações</h3>
 <div>
-  <span>Como desenvolvedor Full-Stack, tenho experiência em projetos governamentais e privados,
-  dominando tecnologias como Java Spring/Play, JavaScript, TypeScript, React, Vue.js, AngularJS,
-  MySQL, PostgreSQL e Docker, Git e Jasper.</span>
+  <span>Como desenvolvedor Full-Stack, tenho experiência em projetos governamentais e
+privados, dominando tecnologias como Java Spring/Play, JavaScript, TypeScript, React,
+Swegger, Testes unitários, Testes integração, Testes subcutâneos, Vue.js, AngularJS,
+MySQL, PostgreSQL e Docker, Git e Jasper.</span>
 </div>
 <h3 align="center">Experiência Profissional</h3>
 <div>
@@ -26,10 +27,11 @@
 recente deles o de comprador. Nessa função, meu principal objetivo era negociar os preços das
 mercadorias com os fornecedores e garantir o abastecimento adequado da empresa.</span>
   <h3>YouxGroup</h3>
-  <span>Nesse cargo, desempenhei a função de desenvolvedor Full-Stack, participando de
-projetos tanto governamentais quanto privados. Ao longo dessa experiência, trabalhei com uma
-ampla gama de tecnologias, incluindo Java Spring/Play, JavaScript, TypeScript, React, Vue.js,
-AngularJS, MySQL, PostgreSQL e Docker.</span>
+  <span>Nesse cargo, desempenhei a função de desenvolvedor Full-Stack,
+participando de projetos tanto governamentais quanto privados. Ao longo dessa
+experiência, trabalhei com uma ampla gama de tecnologias, incluindo Java
+Spring/Play, JavaScript, TypeScript, React, Vue.js, AngularJS, MySQL, PostgreSQL e
+Docker,Relatórios, Banco de dados, Autenticação de usuários.</span>
 </div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoMirandaDev&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="João Miranda status" /> 
