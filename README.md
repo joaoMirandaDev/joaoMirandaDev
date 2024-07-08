@@ -38,8 +38,6 @@ Docker,Relatórios, Banco de dados, Autenticação de usuários.</span>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMirandaDev&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
 </div>
 
-<img src="https://camo.githubusercontent.com/8938c6d47d79d76e472c612f9a975649408df898e09324405e80b06ab78892ba/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d53686966742d6b79267468656d653d68696768636f6e747261737426646174655f666f726d61743d4d2532306a25354225324325323059253544" alt="Shift-ky" width="350px" height="100%/" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=joaoMirandaDev;theme=highcontrast&amp;date_format=M%20j%5B%2C%20Y%5D" style="max-width: 100%;">
-
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joao-victor-souza-7573a1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-victor-souza-7573a1121" height="30" width="40" /></a>
