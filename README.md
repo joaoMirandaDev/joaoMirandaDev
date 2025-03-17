@@ -1,11 +1,11 @@
 <h1 align="center">João Victor de Souza</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto de uma lanchonete [X-lanches](https://github.com/joaoMirandaDev/NewLabches)
+- 🔭 Atualmente estou trabalhando no projeto de uma empresa de sistema solar
 
-- 🌱 Atualmente estou aprendendo **Kotlin(Desenvolvimento android)**
+- 🌱 Atualmente estou aprendendo **Kotlin(Desenvolvimento android) e Java Spring para nivel Pleno**
 
-- 💬 Me pergunte sobre **React, VueJs, AngularJs, JavaScript, TypeScript, Git, PostgresSql, Mysql, Java Spring boot/play.Docker,Linux, Relatórios Jasper**
+- 💬 Me pergunte sobre **React, VueJs, AngularJs, JavaScript, TypeScript, Git, PostgresSql, Mysql, Java Spring boot/play.Docker,Linux, Metodologias Scrum, Banco de dados ,Relatórios Jasper**
 
 - 📫 Você me acha através do e-mail/WhatsApp **joao_to10@hotmail.com, (33)999471753**
 
@@ -18,7 +18,7 @@
   <span>Como desenvolvedor Full-Stack, tenho experiência em projetos governamentais e
 privados, dominando tecnologias como Java Spring/Play, JavaScript, TypeScript, React,
 Swegger, Testes unitários, Testes integração, Testes subcutâneos, Vue.js, AngularJS,
-MySQL, PostgreSQL e Docker, Git e Jasper.</span>
+MySQL, PostgreSQL, Docker, Git e Jasper(IReports).</span>
 </div>
 <h3 align="center">Experiência Profissional</h3>
 <div>
