@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail/WhatsApp **joao_to10@hotmail.com, (33)999471753**
 
-- 📄 Conheça minhas experiências [linkedin.com/in/joao-victor-souza-7573a1121](linkedin.com/in/joao-victor-souza-7573a1121)
+- 📄 Conheça meu Linkedin [linkedin.com/in/joao-victor-souza-7573a1121](linkedin.com/in/joao-victor-souza-7573a1121)
 
 - 📄 Acesse meu currículo (https://drive.google.com/file/d/1TIbp5WXXAUb_jlOMVAr4QS5DXS5ilpJG/view?usp=drive_link)
 
@@ -19,6 +19,7 @@
 privados, dominando tecnologias como Java Spring/Play, JavaScript, TypeScript, React,
 Swegger, Testes unitários, Testes integração, Testes subcutâneos, Vue.js, AngularJS,
 MySQL, PostgreSQL, Docker, Git e Jasper(IReports).</span>
+  <span>Atualmente, estou desenvolvendo um sistema de energia fotovoltaica utilizando Java Spring, React com TypeScript e MySQL. Este projeto está integrado com sistemas de pagamento (Pix, Boleto e cartão) e emissão de notas fiscais. Paralelamente, estou estudando para atingir o nível pleno, desenvolvendo um e-commerce com cadastros de clientes, fornecedores, vendedores, controle de estoque, emissão de notas fiscais e pagamentos.</span>
 </div>
 <h3 align="center">Experiência Profissional</h3>
 <div>
