@@ -18,7 +18,7 @@
   <span>Como desenvolvedor Full-Stack, tenho experiência em projetos governamentais e
 privados, dominando tecnologias como Java Spring/Play, JavaScript, TypeScript, React,
 Swegger, Testes unitários, Testes integração, Testes subcutâneos, Vue.js, AngularJS,
-MySQL, PostgreSQL, Docker, Git e Jasper(IReports).</span>
+MySQL, PostgreSQL, Docker, Rabbitmq ,Git e Jasper(IReports).</span>
   <span>Atualmente, estou desenvolvendo um sistema de energia fotovoltaica utilizando Java Spring, React com TypeScript e MySQL. Este projeto está integrado com sistemas de pagamento (Pix, Boleto e cartão) e emissão de notas fiscais. Paralelamente, estou estudando para atingir o nível pleno, desenvolvendo um e-commerce com cadastros de clientes, fornecedores, vendedores, controle de estoque, emissão de notas fiscais e pagamentos.</span>
 </div>
 <h3 align="center">Experiência Profissional</h3>
